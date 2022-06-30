@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **kumarjit.porel@gmail.com**
 
-- ⚡ Fun fact **I think I am so funny guy**
+- 📄 Know about my experiences [4 years programming teacher from youth computer training centre](4 years programming teacher from youth computer training centre)
+
+- ⚡ Fun fact **I think I am funny guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
