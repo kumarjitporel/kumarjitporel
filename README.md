@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumarjit porel</h1>
-<h3 align="center">Cybersecurity Engineer</h3>
+<h3 align="center">Cybersecurity Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarjitporel" alt="kumarjitporel" /></a> </p>
 
